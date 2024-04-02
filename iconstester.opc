@@ -1,2 +1,9 @@
-Hello, World. This is a Doc!
-icon:planet
+<scripts>
+sys topbar.text = "Code - File - Edit - Selection"
+
+sys Body.text = "Hello, World!"
+</scripts>
+
+<displays>
+render ["topbar", "Body"]
+</displays>

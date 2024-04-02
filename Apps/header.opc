@@ -1,0 +1,8 @@
+<scripts>
+    system region.header.text "[sys] - [app] - File - Edit - YOYO - Hello, World!"
+    system region.header.background "#000000"
+    system region.header.register ["-240","180","240","160"]
+</scripts>
+<displays>
+    render region.header
+</displays> 
